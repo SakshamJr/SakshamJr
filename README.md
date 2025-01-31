@@ -7,10 +7,6 @@
 - **Deep Learning:** Enhancing my understanding and skills in neural networks and deep learning frameworks.
 - **Computer Vision:** I am just starting to learn computer vision for image processing and facial recognition systems, and also to work on my project.
 
-### Collaboration
-
-💞️ I am looking to collaborate on real-life AI/ML projects. I am currently working on a project <b>AUTOMATIC CLASS ATTENDANCE USING COMPUTER VISION AND DEEP LEARNING</b>. If you are working on a project similar to mine, feel free to reach out!
-
 ### Contact
 
 📫 You can reach me via email at: [jrsaksham10@gmail.com](mailto:jrsaksham10@gmail.com)
